@@ -1,1 +1,1 @@
-# Spotify
+Comprehensive analysis of popularity scores within a dataset of music tracks from the Spotify API. Our goal is to provide actionable recommendations to management or record labels, driving strategic decision-making and optimizing investments in tracks based on predictive insights.
